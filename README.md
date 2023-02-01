@@ -1,3 +1,19 @@
+
+
+# How PathFindAlgo is done.[Document](https://docs.google.com/document/d/1idbvHLbpehUsAR5JArV7b0RRIm8_mayKylspBuOKI2M/edit?usp=sharing)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
